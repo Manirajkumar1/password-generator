@@ -1,1 +1,1 @@
-password generator using React & tailwind
+password generator using React and tailwind
